@@ -65,4 +65,6 @@ echo "<form action='pro.php' method='post'>";
 
 ?>
 </body>
+    
+ hola mundo
 </html>
